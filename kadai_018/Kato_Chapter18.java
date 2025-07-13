@@ -5,9 +5,9 @@ public abstract class Kato_Chapter18 {
 	public String givenName;
 	public String address = "東京都中野区⚪×";
 	
-	public void setGivenName(String givenName) {
-		this.givenName = givenName;
-	}
+//	public void setGivenName(String givenName) {
+//		this.givenName = givenName;
+//	}
 	 public void commonIntroduce() {
 		  System.out.println("名前は"+familyName+givenName+"です");
 		  System.out.println("住所は"+address+"です");
